@@ -1,5 +1,8 @@
 # ChangeLog of Instruction
 
+## 2026-04-27
+- install Git and Python by `winget`
+
 ## 2025-10-28
 - fix some explanation
 - add explanation of `git clone`
